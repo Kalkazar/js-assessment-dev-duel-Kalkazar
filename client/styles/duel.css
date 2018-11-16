@@ -60,3 +60,11 @@ span.username {
     justify-content: flex-end;
     white-space: nowrap;
 }
+
+.victor .arrow {
+    font-size: 80pt;
+}
+
+.victor .winner {
+    font-size: 30pt;
+}

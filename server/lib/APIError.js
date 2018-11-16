@@ -1,5 +1,7 @@
 import httpStatus from 'http-status'
 
+// need errors for 404 and blank inputs
+
 /**
  * @extends Error
  */
